@@ -45,8 +45,7 @@ With this model and with all the others techniques applied, we have been able to
 ##  🏌<span style='color:green'> Objective </span>
 This hackathon was about predicting whether a person in an image is wearing a face mask or not.
 
-⌛ Timeline : **April 17th 2020 11:59 AM - April 19th 2020 11:59PM**
-
+⌛ Timeline : **April 17th 2020 11:59 AM 
 More details here:
 https://zindi.africa/hackathons/spot-the-mask-challenge
 
@@ -128,24 +127,8 @@ You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly
 
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
-|Muhamed TUO     |[@Nazario😁](https://zindi.africa/users/Muhamed_Tuo)  |[@NazarioR9](https://github.com/NazarioR9)|
-| Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/I_am_Zeus_AI)        |[@dric2018](https://github.com/dric2018)  |
-|Emmanuel KOUPOH |[@eaedk😂](https://zindi.africa/users/eaedk)      |[@eaedk](https://github.com/eaedk)        |
+|Muhamed TUO     |[@Kinfe😁](https://zindi.africa/users/kinfe)  |[@kinfe19](https://github.com/kinfe19)|
 
 </div>
 
-```
-MIT License
 
-<<<<<<< HEAD
-Copyright (c) 2020 TheCIA.
-=======
-## Final Leaderboard
->>>>>>> 23c9dbce4e880024d23d8a776913ea4b51727263
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
