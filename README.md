@@ -127,7 +127,7 @@ You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly
 
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
-|Muhamed TUO     |[@Kinfe😁](https://zindi.africa/users/kinfe)  |[@kinfe19](https://github.com/kinfe19)|
+|Kinfe Masriei    |[@Kinfe😁](https://zindi.africa/users/kinfe)  |[@kinfe19](https://github.com/kinfe19)|
 
 </div>
 
