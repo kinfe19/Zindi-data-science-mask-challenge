@@ -42,17 +42,6 @@ With this model and with all the others techniques applied, we have been able to
 </div>
 
 
-##  🏌<span style='color:green'> Objective </span>
-This hackathon was about predicting whether a person in an image is wearing a face mask or not.
-
-⌛ Timeline : **April 17th 2020 11:59 AM 
-More details here:
-https://zindi.africa/hackathons/spot-the-mask-challenge
-
-
-
-
-
 ## 🌴<span style='color:green'> Repository structure (tree😎)</span>
 You must follow this structure when runing the notebook.
 
@@ -92,9 +81,6 @@ $ conda list
 # (optional) 
 $ jupyter-notebook
 ```
-Then you will be able now to use `jupyter-notebook` or your favourite text editor to execute the code and get our final result.
-\
-You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly run the notebook. 
 
 ## Command lines summary
 
@@ -112,15 +98,8 @@ You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly
 </div>
 
 
-🚨 **The score you will get after runing the code (about 0.00109) is given by predicting on a portion of the test images (public part). The private test images are owned by the organizers of the challenge. the final leaderboard score has been generated after predicting on the full test set.**
 
 
-## 🏆<span style='color:green'> Final Leaderbord </span>
-
-🏅**Position**: 3rd / 147  
- 🏅**Score**: 0.0226 (LogLoss) 
-
-[See the leaderboard](https://zindi.africa/hackathons/spot-the-mask-challenge/leaderboard)
 ## 💻<span style='color:green'> Authors </span>
 
 <div align='center'>
